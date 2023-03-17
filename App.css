@@ -1,1 +1,88 @@
 
+.App {
+  background-color: #362d26;
+  text-align: center;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+}
+
+.unchangeable {
+	background-color: #d1d1d1;
+}
+
+.eventFrame {
+  background-color: white;
+  min-height: 20vh;
+  max-width: 30ch;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  border: 2px black solid;
+  margin: 5% 5% 5% 5%;
+}
+
+.layoutText{
+  color: white;
+  font-size: 24px;
+}
+
+.eventFrameWrapper{
+  min-width: 100ch;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  padding-left: 25%;
+}
+
+.eventFrameCities {
+  background-color: white;
+  min-height: 20vh;
+  max-width: 30ch;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  border: 2px black solid;
+  margin: 5% 5% 5% 5%;
+}
+.eventFrameGenre {
+  background-color: white;
+  min-height: 20vh;
+  max-width: 30ch;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  border: 2px black solid;
+  margin: 5% 5% 5% 5%;
+}
+
+.layoutButton {
+  background-color: #262b2f;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.layoutNav {
+  background-color: #666a6d;
+  text-align: center;
+  min-height: 5vh;
+}
+
+.h3-frame {	
+  text-align: center;
+}
+.span-frame {	
+  text-align: center;
+}
+
+.form {
+  color: white;
+}
+#p_wrap {
+    white-space: pre-line;
+   }
