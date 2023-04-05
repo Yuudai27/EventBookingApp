@@ -82,6 +82,8 @@
 
 .form {
   color: white;
+  text-align: left;
+  padding-left: 40%;
 }
 #p_wrap {
     white-space: pre-line;
