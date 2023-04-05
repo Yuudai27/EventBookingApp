@@ -1,5 +1,6 @@
 
 How to carry out test?
+
 You can carry out tests directly in the application with creating new user accounts on the register
 pages. 
 With the event- page can event- bookings be iniated and send to the SQL- server with node.js.
@@ -8,6 +9,7 @@ All the results of the changes can be checked in the database itself or in the a
 after the changes took place.
 
 Defined test cases:
+
 1.) Create a new user- account:
   Navigate to the register- page and fill out all details asked 
   on the page.
